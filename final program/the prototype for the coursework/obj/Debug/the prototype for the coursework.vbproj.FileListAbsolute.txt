@@ -1,0 +1,184 @@
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+U:\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers.resources
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers.resources
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+\\srvfs16\16enrol\T625885\A2 Computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repairs.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repairs.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+E:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repairs.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+D:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repairs.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+H:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repairs.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+F:\computer science\coursework\prototype\the prototype 1.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_a_repair_form.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repair_Menu_Fom.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Display_Or_Ammened_A_Repair_form.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Welcome_Form.resources
+F:\computer science\coursework\prototype\the prototype 2.0\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Invoice.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_a_repair_form.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Display_Or_Ammened_A_Repair_form.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Invoice.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repair_Menu_Fom.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Welcome_Form.resources
+F:\computer science\coursework\prototype\the prototype 3.0 hashing algorithm\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_a_repair_form.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Display_Or_Ammened_A_Repair_form.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Invoice.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repair_Menu_Fom.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Welcome_Form.resources
+F:\computer science\coursework\prototype\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_a_repair_form.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Display_Or_Ammened_A_Repair_form.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Invoice.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repair_Menu_Fom.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Welcome_Form.resources
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.Cache
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.CoreCompileInputs.cache
+F:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbprojAssemblyReference.cache
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe.config
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.exe
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.pdb
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\bin\Debug\the prototype for the coursework.xml
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbprojAssemblyReference.cache
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_a_repair_form.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Add_Customer.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Customers_Menu.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Display_Or_Ammened_A_Repair_form.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form1.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Form2.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Invoice.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Resources.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Repair_Menu_Fom.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Show_or_Ammend_Customer.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the_prototype_for_the_coursework.Welcome_Form.resources
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.GenerateResource.cache
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.vbproj.CoreCompileInputs.cache
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.exe
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.xml
+E:\computer science\coursework\the programs\final program\the prototype for the coursework\obj\Debug\the prototype for the coursework.pdb
